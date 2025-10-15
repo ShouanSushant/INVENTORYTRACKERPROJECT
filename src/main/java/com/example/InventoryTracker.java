@@ -15,12 +15,12 @@ public class InventoryTracker {
         }
     }
 
-    // Method 2: Low stock alert
-    public void alertLowStock(int stock) {
-        if (stock < 5) {
-            System.out.println("⚠️ Warning: Low stock! Only " + stock + " items left.");
-        } else {
-            System.out.println("✅ Stock level is sufficient.");
-        }
-    }
-}
+//     // Method 2: Low stock alert
+//     public void alertLowStock(int stock) {
+//         if (stock < 5) {
+//             System.out.println("Warning: Low stock! Only " + stock + " items left.");
+//         } else {
+//             System.out.println("Stock level is sufficient.");
+//         }
+//     }
+// }
